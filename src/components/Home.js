@@ -1,9 +1,10 @@
 import React from 'react';
 import styled from 'styled-components'
+import ImgSlider from './ImgSlider';
 
 function Home() {
   return <Container>
-    Home
+       <ImgSlider />
   </Container>;
 }
 
@@ -14,6 +15,7 @@ const Container = styled.main`
      padding: 0 calc(3.5vw + 5px);
     //  background : blue;
     positon: relative;
+    overflow-x: hidden;
 
     &:before {
         background: url("/images/home-background.png") center center / cover
