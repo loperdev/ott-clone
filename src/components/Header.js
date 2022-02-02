@@ -41,7 +41,7 @@ function Header() {
 
 
               </NavMenu>
-    <UserImg src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" />
+    <UserImg src="/images/profile.JPG" />
         </Nav>;
 }
 
