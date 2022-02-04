@@ -41,7 +41,7 @@ function Header() {
 
 
               </NavMenu>
-    <UserImg src="/images/profile.JPG" />
+    <UserImg src="https://avatars.githubusercontent.com/u/51700910?s=96&v=4" />
         </Nav>;
 }
 
