@@ -124,7 +124,7 @@ const AddButton = styled.button`
       width: 44px;
       height: 44px;
       display: flex;
-      aligh=n-item: center;
+      align-item: center;
       justify-content: center;
       border-radius: 50%;
       border: 2px solid white;
